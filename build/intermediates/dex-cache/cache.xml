@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\classes-86990a5cf59ae62c9645e5dfdf2cba152c607d79.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kat\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.11.0\6592129dec2caa8791d322c7e4b6b7a30e8eadae\parse-android-1.11.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6592129dec2caa8791d322c7e4b6b7a30e8eadae">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\parse-android-1.11.0-4328aad0840c751214e739156f5586e7167da0b0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kat\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-c88c302250481d5246db4d5b2ae22a86a2e2d61f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\classes-facd82190b1dda2afa34d836ea356820910d65cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kat\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.3.0\8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c\bolts-tasks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a62fd16fcc1c06f284fc98e6cbded2a5af1dd4c">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.3.0-2cc8d27b7d2d0ba328960d713e1ff2d8a0b0fbac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kat\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.3.0\bc535105332645408ef5f1380215cc954b842178\bolts-applinks-1.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bc535105332645408ef5f1380215cc954b842178">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.3.0-9caa26b944b3e084dbbaf33b5d5c673c9a2f8a02.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Kat\Desktop\School\MediTrac1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-c4782f97dc5d0136ad2d69929ec213e0dafe4a33.jar" />
+    </item>
+
+</items>
