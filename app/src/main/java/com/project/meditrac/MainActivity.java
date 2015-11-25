@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.view.Menu;  
 import android.view.MenuItem;  
 import android.widget.Toast;
-import com.parse.Parse;
+import com.parse.*;
 
 public class MainActivity extends Activity {  
 	Login Login = new Login();
@@ -15,7 +15,8 @@ public class MainActivity extends Activity {
         Parse.enableLocalDatastore(this);
 
         Parse.initialize(this, "30l5dACBVGA3oC8xiyzcqOCmoFbbKMkW1TvhnGwP", "3smPQrNBOaX5v1jEiIiV9VzdkLnikM26x3CpBpDH");
-    }  
+
+    }
     @Override  
     public boolean onCreateOptionsMenu(Menu menu) {  
         // Inflate the menu; this adds items to the action bar if it is present.  
